@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>元组</title>
+      <link href="/posts/5.html"/>
+      <url>/posts/5.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h1><p>元组</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Python </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 学习 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>列表</title>
       <link href="/posts/4.html"/>
       <url>/posts/4.html</url>
