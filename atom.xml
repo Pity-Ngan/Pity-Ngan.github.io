@@ -6,7 +6,7 @@
   <link href="https://pity-ngan.github.io/atom.xml" rel="self"/>
   
   <link href="https://pity-ngan.github.io/"/>
-  <updated>2022-02-27T05:59:02.786Z</updated>
+  <updated>2022-02-28T14:45:27.462Z</updated>
   <id>https://pity-ngan.github.io/</id>
   
   <author>
@@ -21,15 +21,19 @@
     <link href="https://pity-ngan.github.io/posts/5.html"/>
     <id>https://pity-ngan.github.io/posts/5.html</id>
     <published>2022-02-27T05:48:03.518Z</published>
-    <updated>2022-02-27T05:59:02.786Z</updated>
+    <updated>2022-02-28T14:45:27.462Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h1><p>元组</p>]]></content>
+    <content type="html"><![CDATA[<p>元组</p><pre class="line-numbers language-none"><code class="language-none">tup1=()#创建空的元组print(type(tup1))tup2=(50)#inttup2=(50,)#元组print(type(tup2))<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;列表&quot;&gt;&lt;a href=&quot;#列表&quot; class=&quot;headerlink&quot; title=&quot;列表&quot;&gt;&lt;/a&gt;列表&lt;/h1&gt;&lt;p&gt;元组&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;p&gt;元组&lt;/p&gt;
+&lt;pre class=&quot;line-numbers language-none&quot;&gt;&lt;code class=&quot;language-none&quot;&gt;tup1=()#创建空的元组
+print(type(tup1))
+tup2=(50)#int
+tup2=(50,)#元组
+p</summary>
       
     
     

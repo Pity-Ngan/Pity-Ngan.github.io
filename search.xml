@@ -8,7 +8,7 @@
       <link href="/posts/5.html"/>
       <url>/posts/5.html</url>
       
-        <content type="html"><![CDATA[<h1 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h1><p>元组</p>]]></content>
+        <content type="html"><![CDATA[<p>元组</p><pre class="line-numbers language-none"><code class="language-none">tup1=()#创建空的元组print(type(tup1))tup2=(50)#inttup2=(50,)#元组print(type(tup2))<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
       
       
       <categories>
